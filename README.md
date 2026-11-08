@@ -14,11 +14,11 @@ Design of a printed circuit board for a modular side-illuminated LED display bui
 
 ### Programming and embedded systems
 MATLAB fundamentals, embedded systems design, and programming with a hardware description language (HDL). The HDL waveform simulation checks a combinational circuit: output Z goes high when (A and B) is true or when C or D is high, which matched the defined logic. Also a data analysis task in project week 3.
-- File: `code_project_week_3.pdf`
+- Files: `code_project_week_3.pdf`, `embedded_systems_design.pdf`, `hdl_questasim_waveform.png` and `hdl_questasim_compile.png` (QuestaSim simulation), `matlab_fundamentals_certificate.pdf` (MathWorks, Dec 2024)
 
 ### Mechanical design and manufacture
 CAD for 3D parts, assemblies and drawings, and additive manufacturing.
-- Files: `cad_simple_part.png`, `assembly_drawing.pdf`
+- Files: `cad_simple_part.png`, `cad_assembly_exploded_view.png`, `cad_assembly_front_view.png`, `assembly_drawing.pdf`, `3d_print_prusaslicer_preview.png` (PrusaSlicer preview of the printed parts)
 
 ### Design process and project work
 Design and development process, design matrix, verification of target specifications, a project timetable and the project week 3 teamwork report.
